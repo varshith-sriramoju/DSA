@@ -2,10 +2,10 @@
 Welcome to Data Structures & Algorithms in Java
 Here are the topics we will cover:
 
-->Technical
+->Technical-
 Big O notation.
 
-->Data Structures
+->Data Structures-
 Arrays,
 Array Lists,
 Linked Lists,
@@ -16,7 +16,7 @@ Hash Tables,
 Heaps,
 Graphs.
 
-->Algorithms
+->Algorithms-
 Sorting,
 Bubble Sort,
 Selection Sort,
@@ -24,6 +24,6 @@ Insertion Sort,
 Merge Sort,
 Quick Sort.
 
-->Searching
+->Searching-
 Breadth First Search,
 Depth First Search.
