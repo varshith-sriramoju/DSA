@@ -1,3 +1,5 @@
+package ArrayList;
+
 import java.util.ArrayList;
 
 public class Arraylist {
@@ -21,5 +23,5 @@ public class Arraylist {
         System.out.println(listName);
         System.out.println(listName.indexOf("xyz")); //tells index
 
-    }
+      }
 }
