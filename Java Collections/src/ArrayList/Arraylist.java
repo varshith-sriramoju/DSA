@@ -16,6 +16,7 @@ public class Arraylist {
 //            System.out.println(temp);
 //        }
         System.out.println("the first element is :"+listName.get(0)); //print separate
+        System.out.println("the second element is :"+listName.get(1)); //print separate
         listName.remove(1); //remove by index
         listName.remove("varsh"); //remove by value
         System.out.println(listName);
